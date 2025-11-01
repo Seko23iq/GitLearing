@@ -3,3 +3,6 @@ Iran.
 UK.
 USA.
 JAPAN.
+CHINA.
+GERMANY.
+French.
