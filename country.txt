@@ -1,2 +1,5 @@
 Irq.
 Iran.
+UK.
+USA.
+JAPAN.
