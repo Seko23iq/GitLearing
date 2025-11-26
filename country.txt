@@ -1,3 +1,24 @@
+<<<<<<< HEAD
 test
+=======
+erasdasdasdasdcew
+	test
+>>>>>>> a6d199ba0abdd6b5f771bd5c17f5782bf82de353
 Irq.
 Iran.
+UK.
+USA.
+JAPAN.
+CHINA.
+GERMANY.
+French.
+TURKAY.
+UAM
+TONIS
+tsetbraning
+1st main commit
+2st main commit
+3st main commit
+4st main commit
+test
+test2
